@@ -2,7 +2,8 @@
 
 Spring 21
 
-Marc Tollis,  Marc.Tollis@nau.edu
+Instructor: Marc Tollis (marc.tollis@nau.edu)
+
 TuTh 9:35-10:50AM, Engineering 314
 
 Please go to http://bblearn.nau.edu.
