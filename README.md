@@ -1,7 +1,5 @@
 # INF110
 
-Spring 21
-
 Instructor: Marc Tollis (marc.tollis@nau.edu)
 
 TuTh 9:35-10:50AM, Engineering 314
