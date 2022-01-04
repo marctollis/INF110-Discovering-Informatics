@@ -12,7 +12,7 @@ Please go to http://bblearn.nau.edu.
 
 | BBLearn Week | Topics | In-class Plans | Reading | Assignment |
 | ------------ | ------ | -------------- | ------- | ---------- |
-| 1 | Course Intro + Causality and Experiments | 1/11: NO CLASS. Watch the Getting Started video and follow the instructions. Install the software before the next class<br/>1/13: Lecture 1 Course Introductions; Lecture 2 Causality and Experiments | Ch [1](https://inferentialthinking.com/chapters/01/what-is-data-science.html) & [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html) | Quiz 1 |
+| 1 | Course Intro + Causality and Experiments | 1/11: NO CLASS. Watch the [Getting Started](https://github.com/marctollis/INF110-Discovering-Informatics/tree/main/GettingStarted) video and follow the instructions. Install the software before the next class<br/>1/13: Lecture 1 Course Introductions; Lecture 2 Causality and Experiments | Ch [1](https://inferentialthinking.com/chapters/01/what-is-data-science.html) & [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html) | Quiz 1 |
 | 2 | Python Expressions | 1/18: Lecture 3 Simple Expressions</br>1/20: Literary Analysis | Ch [3](https://inferentialthinking.com/chapters/03/programming-in-python.html) | HW1, Quiz 2 |
 | 3 | Python Data Types | 1/25: Lecture 4 More Expressions</br>1/27: Code snippets | Ch [4](https://inferentialthinking.com/chapters/04/Data_Types.html) | Quiz 3 |
 |4| Python Sequences | 2/1: Lecture 5 Arrays and Tables</br>2/3: Lecture 6 More Arrays | Ch [5](https://inferentialthinking.com/chapters/05/Sequences.html) | Quiz 4 |
