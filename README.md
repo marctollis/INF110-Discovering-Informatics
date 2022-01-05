@@ -2,7 +2,7 @@
 
 Instructor: Marc Tollis (marc.tollis@nau.edu)<br/>
 TuTh 9:35-10:50AM, Engineering 314<br/>
-Please go to http://bblearn.nau.edu.
+Please go to http://bblearn.nau.edu for weekly quizzes, your midterm, and your final.
 
   This course provides learning opportunities in the foundations of informatics, an interdisciplinary area fusing computer science, programming, and data analysis skills used to solve problems in any field, particularly the natural sciences, business, and the arts. This course will particularly focus on problems drawn from areas that provide significant benefits to human and environmental health. The course does not require any prior experience in programming and is intended for students of any background and major. This course also provides an opportunity for students to explore their interest in topics that are central to the Bachelor of Science in Informatics, Computer Science, and Applied Computer Science programs, and therefore be more informed in considering further study in one of these programs.
 
