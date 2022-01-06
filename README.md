@@ -1,4 +1,4 @@
-# INF110
+# INF110: Discovering Informatics
 
 Instructor: Marc Tollis (marc.tollis@nau.edu)<br/>
 TuTh 9:35-10:50AM, Engineering 314<br/>
