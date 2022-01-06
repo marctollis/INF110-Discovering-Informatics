@@ -21,7 +21,7 @@ The course emphasizes broadly applicable skills in informatics that are applicab
 * [NAU BBLearn (Blackboard) site](https://bblearn.nau.edu/)
 
 ## Course Schedule
-This is a tentative outline and topics may vary according to student needs. The course will be delivered in person, but can be done remotely if quarantines are required. It is important to be flexible in response to the changes the COVID-19 pandemic has made to the rhythm of our lives. 
+This is a tentative outline and topics may vary according to student needs. The course will be delivered in person, but can be done remotely if quarantines are required. Attendance is strongly encouraged as there will be live coding demonstrations. It is important to be flexible in response to the changes the COVID-19 pandemic has made to the rhythm of our lives. 
 * All quizzes and homeworks for a given week are due on Sunday 11:59 PM.
 
 | BBLearn Week | Topics | In-class Plans | Reading | Assignment | Coding snippets |
