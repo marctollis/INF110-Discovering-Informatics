@@ -16,10 +16,12 @@ The course emphasizes broadly applicable skills in informatics that are applicab
 * The course does not require any prior experience in programming and is intended for students of any background and major.
 
 ## Resources
-* Syllabus and policies</br>
+* [Syllabus and policies](https://github.com/marctollis/INF110-Discovering-Informatics-Spring22/blob/main/INF110_S21_Syllabus.pdf)</br>
 * [Textbook](https://inferentialthinking.com/chapters/intro.html)</br>
 * [NAU BBLearn (Blackboard) site](https://bblearn.nau.edu/)
 
+## Course Schedule
+This is a tentative outline and topics may vary according to student needs. The course will be delivered in person, but can be done remotely if quarantines are required. It is important to be flexible in response to the changes the COVID-19 pandemic has made to the rhythm of our lives.
 
 | BBLearn Week | Topics | In-class Plans | Reading | Assignment | Coding snippets |
 | ------------ | ------ | -------------- | ------- | ---------- | --------------- |
