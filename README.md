@@ -2,7 +2,7 @@
 
 Instructor: Marc Tollis (marc.tollis@nau.edu)<br/>
 TuTh 9:35-10:50AM, Engineering 314<br/>
-Office Hours: TuTh 1:002:00PM</br>
+Office Hours: TuTh 1:00–2:00PM</br>
 Please go to http://bblearn.nau.edu for weekly quizzes, to submit homework assignments, and complete your midterm and final.
 
 ## Course Description
