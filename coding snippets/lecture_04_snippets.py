@@ -1,6 +1,6 @@
 # How's the weather?
 def describe_weather(degrees_fahrenheit):
-    """ Describes the weather (according to Austin)
+    """ Describes the weather (according to Marc)
 
     Uses conditional logic to return a string description of the weather based
     on degrees fahrenheit.
