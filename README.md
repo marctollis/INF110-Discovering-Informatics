@@ -17,7 +17,7 @@ The course emphasizes broadly applicable skills in informatics that are applicab
 
 ## Resources
 * Materials for the course are available at this repository. Go to the green "Code" button, and download the ZIP file or clone the repository using Git (if you know how).</br>
-* [Syllabus and policies](https://github.com/marctollis/INF110-Discovering-Informatics-Spring22/blob/main/INF110_S21_Syllabus.pdf)</br>
+* [Syllabus and policies](https://github.com/marctollis/INF110-Discovering-Informatics-Spring22/blob/main/INF110_S22_Syllabus.pdf)</br>
 * [Textbook](https://inferentialthinking.com/chapters/intro.html)</br>
 * [NAU BBLearn (Blackboard) site](https://bblearn.nau.edu/) - this will be primarily how you submit assignments and quizzes.
 
